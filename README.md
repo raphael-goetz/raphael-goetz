@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello there, I'm Raphael 
 
-<!--
-**raphael-goetz/raphael-goetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At 19 years old, I'm still in an educational phase. I embarked on my programming journey in 2022 with Minecraft. Currently, I'm a dual-study student in computer science, actively contributing to the Uroria Network and Code0. I consider myself a creative individual, finding my main motivation in programming from the ability to craft something out of nothing, fueled by nothing more than my brain and a good cup of coffee.
 
-Here are some ideas to get you started:
+## Facts (since Februar 18th, 2024)
+Now lets get to the ground of my programming skills!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture> 
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelgoetz&theme=dark&hide_title=true&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+    />
+  <img />
+</picture>
+
+Can't get more honest than this for my personal use. Additionally, I use C# and .NET Framework at work. I'm primarily focused on backend development (Java & C#), but I'm always open to diving into frontend tasks when needed.
+
+## My plans for the future
+- Diving deeper into safer programming with Rust.
+- Elevating my Java & C# skills to the next level.
+- Developing a portfolio and a mobile app.
