@@ -7,7 +7,7 @@ Now lets get to the ground of my programming skills!
 
 <picture> 
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelgoetz&theme=dark&hide_title=true&hide_border=true"
+    srcset="[https://github-readme-stats.vercel.app/api/wakatime?username=raphaelgoetz&theme=dark&hide_title=true&hide_border=true](https://github-readme-stats.vercel.app/api/wakatime?username=raphaelgoetz&theme=dark&hide_title=true&hide_border=true&hide=Gitignore%20file,SVG,Text,XML,CSV/TSV,PRoperties,Groovy,Grade)"
     media="(prefers-color-scheme: dark)"
     />
   <img />
