@@ -5,13 +5,7 @@ At 19 years old, I'm still in an educational phase. I embarked on my programming
 ## Facts (since Februar 18th, 2024)
 Now lets get to the ground of my programming skills!
 
-<picture> 
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelgoetz&theme=dark&hide_title=true&hide_border=true&hide=Gitignore%20file,SVG,Text,XML,CSV/TSV,PRoperties,Groovy,Grade"
-    media="(prefers-color-scheme: dark)"
-    />
-  <img />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=raphaelgoetz&theme=dark&hide_title=true&hide_border=true&hide=Gitignore%20file,SVG,Text,XML,CSV/TSV,PRoperties,Groovy,Grade,Other)
 
 Can't get more honest than this for my personal use. Additionally, I use C# and .NET Framework at work. I'm primarily focused on backend development (Java & C#), but I'm always open to diving into frontend tasks when needed.
 
