@@ -12,4 +12,4 @@ Can't get more honest than this for my personal use. Additionally, I use C# and 
 ## My plans for the future
 - Diving deeper into safer programming with Rust.
 - Elevating my Java & C# skills to the next level.
-- Developing a portfolio website
+- Developing a portfolio website.
